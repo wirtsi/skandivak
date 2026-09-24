@@ -31,3 +31,38 @@ Quelle: petitepassport.com/destination/oslo/, abgerufen 24.09.2026 (Login Mitgli
 
 ## Verbindung zum ZEIT-Artikel
 Die Petite-Passport-Liste ergänzt die ZEIT-Auswahl (Bjørvika, Deichman Future Library, Tøyenbad, Lorry) um die modernere Food-/Coffee-Szene (Universiteitsgata-Block, Grünerløkka) — beide sind Teil der "Oslo-Insider"-Sektion.
+
+---
+
+## UPDATE — "More Oslo Tips" (Journal, Juli 2024) — neuere Adressen
+
+Nicht als Karten-Spots, sondern aktuelle Empfehlungen (verifiziert via Mitglieder-Tipps + Locals). Abgerufen 24.09.2026.
+
+### Stay
+- **Att Stays** — Boutique-Accommodation (attstays.com). Petite Passport: "If I would book a room in Oslo, I'd book here."
+- **The Hoxton Oslo** — eröffnet laut Artikel **2027** (powerhouse-company.com/hoxton-oslo). → NICHT für Okt. 2026 verfügbar.
+
+### Eat / Drink
+- **Dapper Bistro** — casual, kleine Terrasse in **Oslobukta** (+ Concept Store nebenan). dapperbistro.no
+- **Eff Eff Oyster and Wine bar** — Austernbar, empfohlen von den Ask-og-Eng-Eignern. effetff.no → passt zu ZEIT-"Austernbar".
+- **Revier** — Restaurant **+ Rooftop-Terrasse + kleines Kino**. revier.no
+
+### Shop
+- **Envelope 1976** — norwegische Fashion-Marke, Store in Oslobukta. envelope1976.no
+- **Sanatorium** — Concept Store (Möbel, Fashion, Le Labo). Instagram.
+- **Norway Designs** — nur norwegisches Design. norwaydesigns.no
+- **Sorgenfri** — Galerie + Store (Tipp vom Kollekted-By-Inhaber). sorgenfri.store
+
+### Do (Museen/Ausflüge)
+- **Munch Museum** — Der Schrei (munchmuseet.no). (Ergänzt ZEIT: "Munch im Nationalmuseum" — hier das echte Munch-Museum in Bjørvika.)
+- **Sørenga Sjøbad** — öffentliches Seebad am Fjord (deckt ZEIT-"Seebad Sørenga" ab).
+- **Oslo Public Library (Deichman)** — Architektur, Café, Aussicht (deckt ZEIT-"Future Library/Bücherei" ab).
+- **Kistefos Museum** — ~1h Zug, Skulpturengarten, "für Louisiana-Fans". kistefosmuseum.no
+- **Henie Onstad Kunstmuseum** — modernes Museum, auf der Zugroute zu Ask og Eng. hok.no
+- **Vintersport:** Zug in 35 Min. von Oslo in die Berge zum Skifahren/Wandern.
+
+### Fazit für Oktobertrip
+- **Beste Hotel-Alternative für die 2 Oslo-Nächte:** **Att Stays** (statt Radisson). The Hoxton kommt erst 2027.
+- **Oslobukta (Dapper, Envelope), Eff Eff (Austern), Revier (Dach/Kino)** sind die spannenden neueren Adressen — Oslobukta liegt direkt an der Opera/Bjørvika, passt zum Opern-Tag.
+- **Munch Museum** (nicht nur Nationalmuseum) + **Kistefos** sind je nach Zeit die kulturellen Highlights.
+
