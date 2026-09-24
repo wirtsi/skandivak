@@ -1,7 +1,7 @@
 # Petite Passport — Oslo Hotspots (eingeloggt, via Member-Access)
 
 Kuratierte Adressen für die Oslo-Station (24.–26. Okt). Primär Eat/Stay/Art/Wellbeing.
-Quelle: petitepassport.com/destination/oslo/, abgerufen 24.09.2026 (Login Mitglieder-Zugang).
+Quelle: petitepassport.com/destination/oslo/, abgerufen 24.09.2026 (Mitglieder-Zugang).
 
 ## Restaurants
 - **Katla** — Fokus auf lokale Meeresfrüchte, asiatisch/südamerikanisch inspirierte Gerichte (Takoyaki, gegrillte Garnelen, Steinbutt). 5-/7-Gang-Menü aus der offenen Küche oder à la carte. Naturwein-Auswahl. www.katlaoslo.no
