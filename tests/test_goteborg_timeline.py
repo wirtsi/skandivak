@@ -24,9 +24,13 @@ class GoteborgTimelineTest(unittest.TestCase):
         self.assertLess(self.source.index('id="goteborg-timeline"'), self.source.index('Göteborg — so sieht es aus'))
 
     def test_realistic_program_with_unbooked_status(self):
-        for text in ['Gothia Towers', 'Universeum', 'Haga', 'Liseberg', 'Keine Aktivität ist gebucht', 'Regenplan', 'Rückreise', 'Wisdome', 'separate', '09:30–19:00']:
+        for text in ['Gothia Towers', 'Universeum', 'Haga', 'Liseberg', 'Universeum &amp; Ocean Dreams sind gebucht', 'Regenplan', 'Rückreise', 'Wisdome', '09:30–19:00']:
             self.assertIn(text, self.timeline)
-        self.assertNotIn('is-booked', self.timeline)
+        self.assertEqual(self.timeline.count('class="oslo-event is-booked"'), 1)
+        for text in ['Ocean Dreams', '15:00–15:22', '2026-10-29T15:00:00+01:00', '2026-10-29T15:22:00+01:00', '2 Erwachsene', '2 Kinder', '4 Eintritte', '1.180 SEK', 'separate Einlasszeit ist im Screenshot nicht angegeben']:
+            self.assertIn(text, self.timeline)
+        for text in ['Eintrittszeit buchen', 'auf Freitagvormittag verschieben', 'Keine Aktivität ist gebucht']:
+            self.assertNotIn(text, self.timeline)
         self.assertIn('Abreisezeit ist noch offen', self.timeline)
         self.assertIn('https://www.liseberg.se/kalender', self.timeline)
         self.assertIn('https://www.universeum.se/besok/biljetter', self.timeline)

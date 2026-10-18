@@ -1,6 +1,6 @@
 # Göteborg im Herbst – offizielle Grundlagen
 
-Quellen: Liseberg, Universeum und Göteborg & Co, geprüft für 29.–31.10.2026. Keine Aktivitäten oder Restaurants sind als gebucht bestätigt. Hotelbasis: Gothia Towers aus bestehendem Nutzerplan.
+Quellen: Liseberg, Universeum und Göteborg & Co, geprüft für 29.–31.10.2026. Nutzer-Buchungsscreenshot bestätigt Universeum + Ocean Dreams am 29.10., 15:00–15:22 Uhr, 2 Erwachsene + 2 Kinder (3–16), inklusive 4 Eintritte, Gesamtpreis 1.180 SEK. Separate Einlasszeit/Filmsprache nicht im Screenshot genannt. Andere Aktivitäten/Restaurants nicht als gebucht bestätigt. Hotelbasis: Gothia Towers aus bestehendem Nutzerplan.
 
 ## Liseberg
 
@@ -15,7 +15,7 @@ Quellen: Liseberg, Universeum und Göteborg & Co, geprüft für 29.–31.10.2026
 
 - https://www.universeum.se/besok/oppettider – regulär10–18; explizit verlängerte Herbstferienöffnung24.–31.10. 09:30–19:00.
 - https://www.universeum.se/besok/biljetter – Eintrittszeit vorab buchen, online günstiger; Aufenthalt bis Schließung. Wisdome braucht eigene/separate Filmkarte oder passendes Kombiticket; Filmzeit und Sprache separat wählen.
-- Die Ticketseite enthält gleichzeitig ältere Aktionsblöcke und einen technischen Verkaufshinweis. Daraus keine konkreten Tagespreise, freien Slots oder stabile Buchbarkeit ableiten. Timeline fordert Slotprüfung, nicht Kaufbehauptung.
+- Die Ticketseite enthält gleichzeitig ältere Aktionsblöcke und einen technischen Verkaufshinweis. Daraus keine konkreten Tagespreise, freien Slots oder stabile Buchbarkeit ableiten. Für diese Reise belegt inzwischen der Nutzer-Screenshot den Kauf des Kombipakets; Einlassbedingungen/Filmsprache bleiben zu prüfen.
 
 ## Haga
 
@@ -23,4 +23,4 @@ Quellen: Liseberg, Universeum und Göteborg & Co, geprüft für 29.–31.10.2026
 
 ## Planungsentscheidungen
 
-Do29 nach Smögen-Anreise Gepäck/Lunch, Universeum als Wunsch14–17:30 nahe Hotel, Abendessen offen. Fr30 optionale kurze Haga-Runde, Hotelpause/Lunch, Liseberg ab ca13 mit Abendstimmung; wer maximale Fahrzeit möchte, Haga streichen und Park ab11. Ende nach Energie, nicht zwingend23. Sa31 Frühstück/Check-out/Rückreise ohne erfundene Fähr-/Abfahrtszeit. Wettertausch nur nach Ticket-/Kalenderprüfung, nicht als automatische Umbuchbarkeit versprechen. Keine Schärenfahrt zusätzlich in die zwei Nächte pressen.
+Do29 nach Smögen-Anreise Gepäck/Lunch, Universeum-Ankunftsziel ca14 (kein bestätigter Einlassslot), Ocean Dreams gebucht15–15:22 und danach Entdecken bis ca17:30, Abendessen offen. Fr30 optionale kurze Haga-Runde, Hotelpause/Lunch, Liseberg ab ca13 mit Abendstimmung; wer maximale Fahrzeit möchte, Haga streichen und Park ab11. Ende nach Energie, nicht zwingend23. Sa31 Frühstück/Check-out/Rückreise ohne erfundene Fähr-/Abfahrtszeit. Wettertausch nur nach Ticket-/Kalenderprüfung, nicht als automatische Umbuchbarkeit versprechen. Keine Schärenfahrt zusätzlich in die zwei Nächte pressen.

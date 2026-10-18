@@ -51,12 +51,12 @@ Quellen und Details: `references/smogen-autumn.md`.
 
 ## Göteborg-Timeline (29.–31.10.)
 
-Visueller Tagesplan unter `#goteborg-timeline`, im gleichen Layout wie Oslo und Smögen. Basis: Gothia Towers, zwei Nächte. Keine Aktivität und kein Restaurant bestätigt; alle Besuchszeiten sind Vorschläge.
+Visueller Tagesplan unter `#goteborg-timeline`, im gleichen Layout wie Oslo und Smögen. Basis: Gothia Towers, zwei Nächte. Universeum-Eintritte und Ocean Dreams am Donnerstag sind per Nutzer-Buchungsscreenshot bestätigt; andere Aktivitäten/Restaurants sind nicht bestätigt.
 
-- **Do 29.10.:** Anreise aus Smögen ohne großen weiteren Stopp, Gepäck/Auto am Gothia Towers, Mittagessen. Universeum als Wunsch ca. 14–17:30; offiziellen Einlassslot vorab passend zur Anreise wählen. Danach unkompliziertes Dinner, ggf. Familjen erst nach Öffnungs-/Tischprüfung. Kein Liseberg zusätzlich.
+- **Do 29.10.:** Rechtzeitige Anreise aus Smögen ohne weiteren Küstenstopp, Gepäck/Auto am Gothia Towers, Mittagessen. Universeum-Ankunftsziel ca. 14 Uhr (Vorschlag, kein bestätigter Einlassslot). **Gebucht: Ocean Dreams in der Wisdome 15:00–15:22 Uhr**, Paket Admission + Ocean Dreams, 2 Erwachsene und 2 Kinder (3–16 Jahre), inklusive 4 Universeum-Eintritte, Gesamtpreis 1.180 SEK. Separate Einlasszeit und Filmsprache im Screenshot nicht genannt; Ticketbedingungen/Vorlauf prüfen. Danach Entdecken bis ca. 17:30 und unkompliziertes Dinner, ggf. Familjen erst nach Öffnungs-/Tischprüfung. Kein Liseberg zusätzlich.
 - **Fr 30.10.:** Optional Haga/Fika ca. 09:30–11, Mittagessen/Hotelpause ca. 11:30–12:30, Liseberg ab ca. 13 mit Pause zum Abendessen und Halloween nach Einbruch der Dunkelheit. Wer maximal fahren möchte, Haga streichen und Park ab 11. Offiziell verifizierte Tagesöffnung: 11–23 Uhr. Rückkehr nach Energie, nicht zwingend 23 Uhr.
 - **Sa 31.10.:** Frühstück, packen, Check-out und Rückreise; genaue Abreise-/Fährzeit fehlt. Nur mit ausreichendem Puffer noch eine kurze Runde, kein großer Ausflug.
-- **Universeum:** Offizielle Herbstferienöffnung 24.–31.10. 09:30–19:00. Wisdome benötigt separate Filmkarte oder Kombiticket; Sprache und Filmzeit prüfen. Bei später Anreise ggf. Freitagvormittag statt Haga, dann späterer Parkstart.
+- **Universeum:** Offizielle Herbstferienöffnung 24.–31.10. 09:30–19:00. Eintritt und Ocean-Dreams-Film sind im bestätigten Kombipaket enthalten; keine zusätzliche Filmkarte nötig. Der Donnerstagstermin um 15 Uhr ist fix. Bei Verzögerungen Hotel/Mittagessen kürzen, nicht ohne Prüfung der Buchungsbedingungen auf Freitag verschieben.
 - **Liseberg:** Eintritt und Fahrpass (Åkpass) unterscheiden; Größen-/Altersgrenzen individuell prüfen. Vinden, Zombie, Nattsvart på Gasten, Skogen ab 11 Jahren (Flora9 nicht zugelassen; Lilia12 nur freiwillig), Haus „7“ ab15 für beide nicht. Kaninlandet/Sagoskogen freundlichere Wahl; ausgewiesene Schreckzonen ab18 Uhr bewusst meiden oder wählen.
 - **Regen/Wind:** Haga streichen, mehr Pause; Fahrgeschäfte können wetterbedingt ausfallen. Tausch der Besuchstage nur nach Kalender-/Ticketprüfung, keine automatische Umbuchbarkeit. Schärenfahrt bewusst nicht in die zwei Nächte eingeplant.
 
