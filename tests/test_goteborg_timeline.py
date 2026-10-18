@@ -2,6 +2,7 @@ from pathlib import Path
 import re
 import subprocess
 import unittest
+from test_oslo_timeline import without_monday_dinner
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -45,7 +46,7 @@ class GoteborgTimelineTest(unittest.TestCase):
             self.assertIsNotNone(old)
             self.assertIsNotNone(new)
             assert old is not None and new is not None
-            self.assertEqual(old.group(), new.group())
+            self.assertEqual(without_monday_dinner(old.group()), without_monday_dinner(new.group()))
 
 
 if __name__ == '__main__':

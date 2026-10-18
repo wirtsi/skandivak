@@ -2,6 +2,7 @@ from pathlib import Path
 import re
 import subprocess
 import unittest
+from test_oslo_timeline import without_monday_dinner
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -49,7 +50,7 @@ class SmogenTimelineTest(unittest.TestCase):
             assert match is not None
             return match.group()
 
-        self.assertEqual(extract(previous), extract(self.source))
+        self.assertEqual(without_monday_dinner(extract(previous)), without_monday_dinner(extract(self.source)))
 
 
 if __name__ == '__main__':

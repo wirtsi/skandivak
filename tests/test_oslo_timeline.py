@@ -1,8 +1,18 @@
 from html.parser import HTMLParser
 from pathlib import Path
+import re
 import unittest
 
 ROOT = Path(__file__).resolve().parents[1]
+
+
+def without_monday_dinner(source):
+    """Exclude the user-updated Monday dinner from historical snapshots.
+
+    Its current tentative status is asserted by test_monday_tranen_is_tentative.
+    """
+    pattern = r'<li class="oslo-event(?: is-pending)?">\s*<div class="oslo-event-meta"><span class="oslo-clock">Abends</span>.*?</li>'
+    return re.sub(pattern, '', source, flags=re.S)
 
 
 class Document(HTMLParser):
@@ -47,6 +57,17 @@ class OsloTimelineTest(unittest.TestCase):
             self.assertIn(text, self.source)
         self.assertIn('id="oslo-timeline"', self.source)
         self.assertLess(self.source.index('id="oslo-timeline"'), self.source.index('Oslo — so sieht es aus'))
+
+    def test_monday_tranen_is_tentative(self):
+        monday = re.search(r'<article[^>]+id="oslo-26".*?</article>', self.source, re.S)
+        self.assertIsNotNone(monday)
+        assert monday is not None
+        dinner = re.search(r'<li class="oslo-event is-pending">\s*<div class="oslo-event-meta"><span class="oslo-clock">Abends</span>.*?</li>', monday.group(), re.S)
+        self.assertIsNotNone(dinner)
+        assert dinner is not None
+        for text in ['Tranen', 'Vorläufig geplant', 'Uhrzeit und Reservierung sind noch offen']:
+            self.assertIn(text, dinner.group())
+        self.assertNotIn('is-booked', dinner.group())
 
     def test_existing_sections_preserved(self):
         for text in ['Unsere Reise', 'Oslo-Insider', 'Essen in Göteborg', 'Wo wir schlafen']:

@@ -32,7 +32,7 @@ Die Website zeigt einen visuellen Tagesplan unter `#oslo-timeline`. Nur ausdrüc
 - **Sa 24.10.:** Ankunft (Uhrzeit offen), Opernführung als Wunsch um 13 Uhr (alternativ 12 Uhr; Englisch, 50 Minuten; noch buchen, Verkauf ab Dienstag derselben Woche). Danach Operndach bei trockenem Wetter, Deichman und Oslobukta, Hotelpause.
 - **Bestätigt: Sa 24.10., 19:00 Uhr – Izakaya Dinner**, 4 Personen, Kirkegata 1–3, 0153 Oslo. Auswahl: 2 × Izakaya Tasting Menu und 2 × à la carte. Quelle: vom Nutzer bereitgestellter Buchungsscreenshot; Restaurant vom Nutzer als Izakaya by PAK bezeichnet.
 - **So 25.10.:** Gemütliches Frühstück, Akerselva und Grünerløkka, Kaffee und kleiner Snack. The Little Pickle Sunday Roast ist eingeplant; genaue Reservierungszeit noch abgleichen. Offizielles Roast-Zeitfenster: 15–17 Uhr, nicht später Abend. Zeitumstellung auf Winterzeit beachten.
-- **Mo 26.10.:** Vormittags Vigeland, mittags Aker Brygge/Tjuvholmen, nachmittags optional MUNCH (Tickets/Öffnung noch prüfen), Abendessen offen. Regenalternative: Tøyenbad statt Park; nicht Schwimmbad und Museum erzwingen.
+- **Mo 26.10.:** Vormittags Vigeland, mittags Aker Brygge/Tjuvholmen, nachmittags optional MUNCH (Tickets/Öffnung noch prüfen), abends voraussichtlich Tranen (Nutzerangabe; Uhrzeit und Reservierung noch offen). Regenalternative: Tøyenbad statt Park; nicht Schwimmbad und Museum erzwingen.
 - **Di 27.10.:** Frühstück, Check-out, Weiterfahrt nach Smögen; kein fester Oslo-Programmpunkt mehr.
 
 Quellen: Nutzerkorrekturen und Buchungsscreenshot; [Opernführungen](https://www.operaen.no/en/your-visit-at-oslo-operahouse/guided-tours/); [Little Pickle Sunday Roast](https://www.thelittlepickle.no/general-6-1).
