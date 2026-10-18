@@ -72,7 +72,12 @@
   #smogen-timeline .oslo-day:nth-child(2) .oslo-day-head { background:#245b75; }
   #smogen-timeline .oslo-day:last-child .oslo-day-head { background:var(--ink); }
   #smogen-timeline a:focus-visible { outline:3px solid #216b62; outline-offset:4px; }
+  #goteborg-timeline .oslo-day-head { background:#345875; }
+  #goteborg-timeline .oslo-day:nth-child(2) .oslo-day-head { background:#61406f; }
+  #goteborg-timeline .oslo-day:last-child .oslo-day-head { background:var(--ink); }
+  #goteborg-timeline a:focus-visible { outline:3px solid #61406f; outline-offset:4px; }
   @media (max-width:760px){ .oslo-days{grid-template-columns:minmax(0,1fr);} }
+  @media (max-width:640px){ #goteborg-timeline h2{font-size:1.7rem;} }
   @media (max-width:640px){ #smogen-timeline h2{font-size:1.7rem;} }
   @media (max-width:640px){ header{padding:36px 16px;} header h1{font-size:1.9rem;} .hero{height:220px;} .grid{grid-template-columns:minmax(0,1fr);} .oslo-day-head{padding:20px;gap:14px;} .oslo-events{padding:24px 18px 6px 30px;} .oslo-event{padding-left:22px;} #oslo-timeline h2{font-size:1.7rem;} }
 </style>
@@ -458,6 +463,112 @@
     <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Grebbestad_-_panoramio.jpg/960px-Grebbestad_-_panoramio.jpg" alt="Grebbestad"><figcaption>Grebbestad</figcaption></figure>
     <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fjallbacka_IMG_9581.jpg/960px-Fjallbacka_IMG_9581.jpg" alt="Fjällbacka"><figcaption>Fjällbacka</figcaption></figure>
   </div>
+</section>
+
+<section id="goteborg-timeline" aria-labelledby="goteborg-timeline-title">
+  <h2 id="goteborg-timeline-title">Göteborg · unser Zeitplan</h2>
+  <p class="oslo-intro">Zwei Nächte, ein Dschungel-Nachmittag und ein großer Halloween-Tag. Die Basis ist Gothia Towers – praktisch für Universeum und Liseberg. <strong>Alle Zeiten sind Vorschläge. Keine Aktivität ist gebucht.</strong></p>
+  <nav class="oslo-nav" aria-label="Direkt zum Göteborg-Reisetag">
+    <a href="#goteborg-29">Do 29. · Ankommen &amp; Universeum</a>
+    <a href="#goteborg-30">Fr 30. · Halloween</a>
+    <a href="#goteborg-31">Sa 31. · Heimreise</a>
+  </nav>
+  <div class="oslo-days">
+    <article class="oslo-day goteborg-day" id="goteborg-29" aria-labelledby="goteborg-thursday">
+      <div class="oslo-day-head">
+        <time class="oslo-date" datetime="2026-10-29">29<small>OKT</small></time>
+        <div><p>Donnerstag · Von Smögen nach Göteborg</p><h3 id="goteborg-thursday">Von den Schären in den Dschungel.</h3></div>
+      </div>
+      <ol class="oslo-events" aria-label="Göteborg am Donnerstag">
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Vormittags</span><span class="oslo-status">Flexibel</span></div>
+          <h4>Smögen verabschieden</h4>
+          <p>Frühstück, Check-out und nach der optionalen letzten Hafenrunde Richtung Göteborg. Heute keinen weiteren großen Küstenstopp einbauen.</p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Mittags · je nach Ankunft</span><span class="oslo-status">Basis · 2 Nächte</span></div>
+          <h4>Gothia Towers &amp; etwas essen</h4>
+          <p>Auto und Gepäck abgeben, mögliche Check-in-Zeit klären und in Ruhe Mittag essen. Für Universeum bleibt ihr danach im selben Viertel.</p>
+        </li>
+        <li class="oslo-event is-pending">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ca. 14:00–17:30</span><span class="oslo-status pending">Eintrittszeit buchen</span></div>
+          <h4>Universeum – Regenwald, Tiere &amp; Ausprobieren</h4>
+          <p>Ein großer Indoor-Nachmittag statt Stadtrundfahrt nach der Anreise. Gemeinsam die Bereiche auswählen, die euch interessieren; nicht jede Etage als Pflicht sehen.</p>
+          <p class="oslo-detail">Offizielle Ferienöffnung 24.–31.10.: <strong>09:30–19:00</strong>. Einlassslot erst passend zur Anreise wählen. Wisdome-Filme brauchen eine separate Filmkarte oder ein passendes Kombiticket; Sprache und Filmzeit extra prüfen. <a href="https://www.universeum.se/besok/biljetter">Tickets &amp; Slots ↗</a></p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ca. 18:30</span><span class="oslo-status">Noch offen</span></div>
+          <h4>Entspannt essen, früh runterfahren</h4>
+          <p>Ein unkompliziertes Dinner in Hotelnähe. Wenn ihr Familjen aus eurer Restaurantliste möchtet, vorher Öffnung und Tisch prüfen – hier ist nichts reserviert. Liseberg bleibt heute bewusst draußen.</p>
+        </li>
+      </ol>
+      <p class="oslo-day-note"><strong>Falls die Anreise später wird:</strong> Universeum nicht auf eine hektische Stunde kürzen. Wenn keine passenden Slots bleiben, auf Freitagvormittag verschieben und dafür Haga streichen; Halloween startet dann später.</p>
+    </article>
+
+    <article class="oslo-day goteborg-day" id="goteborg-30" aria-labelledby="goteborg-friday">
+      <div class="oslo-day-head">
+        <time class="oslo-date" datetime="2026-10-30">30<small>OKT</small></time>
+        <div><p>Freitag · Der große Halloween-Tag</p><h3 id="goteborg-friday">Zimtschnecke rein. Achterbahn los.</h3></div>
+      </div>
+      <ol class="oslo-events" aria-label="Göteborg am Freitag">
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ca. 09:30–11:00</span><span class="oslo-status">Optional</span></div>
+          <h4>Eine kleine Runde Haga &amp; Fika</h4>
+          <p>Durch Haga Nygata bummeln, Kaffee und Zimtschnecke teilen. Cafés und Läden nur nach tatsächlicher Öffnung mitnehmen. Wer lieber maximal viel fahren möchte, lässt Haga weg und geht ab 11 Uhr direkt in den Park.</p>
+          <p class="oslo-detail"><a href="https://www.goteborg.com/en/guides/haga">Viertelguide ↗</a></p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ca. 11:30–12:30</span><span class="oslo-status">Pause</span></div>
+          <h4>Mittagessen &amp; kurz ins Hotel</h4>
+          <p>Vor dem Park ordentlich essen, warme Schichten und Regenjacken holen. Heute lieber Energie für den Abend sparen als noch ein Museum mitnehmen.</p>
+        </li>
+        <li class="oslo-event is-pending">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ab ca. 13:00</span><span class="oslo-status pending">Tickets noch buchen</span></div>
+          <h4>Liseberg bei Tageslicht</h4>
+          <p>Mit Fahrgeschäften und Halloween-Deko starten. Der offizielle Kalender nennt für Freitag, 30.10., <strong>11–23 Uhr</strong>. Eintritt und Fahrberechtigung unterscheiden: Entré + Åkpass oder passende Einzeltickets prüfen, ebenso Größen- und Altersgrenzen jeder Attraktion.</p>
+          <p class="oslo-detail">Öffnung ist bestätigt, eure Tickets sind es nicht. <a href="https://www.liseberg.se/kalender">Tageskalender ↗</a> · <a href="https://www.liseberg.se/parken/biljetter-priser/">Tickets ↗</a></p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ca. 17:00</span><span class="oslo-status">Warm essen</span></div>
+          <h4>Eine echte Pause im Park</h4>
+          <p>Hinsetzen und etwas Warmes essen, bevor es in die dunkle Halloween-Runde geht. Kein externes Dinner quer durch die Stadt dazwischen.</p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ab 18 Uhr · nach Lust</span><span class="oslo-status">Grusel freiwillig</span></div>
+          <h4>Lichter, Kürbisse &amp; nur so viel Horror wie gewollt</h4>
+          <p>Kaninlandet und Sagoskogen sind die freundlichere Variante. In ausgewiesenen Gruselzonen sind ab 18 Uhr erschreckende Darsteller unterwegs – Wege bewusst wählen. Rückweg ins Hotel, sobald es reicht; 23 Uhr ist keine Familienpflicht.</p>
+          <p class="oslo-detail"><strong>Für Flora:</strong> Die Gruselhäuser mit Mindestalter 11 Jahren sind mit neun tabu. <strong>Für Lilia:</strong> 11+-Häuser nur, wenn sie selbst möchte. Das Haus „7“ ist erst ab 15 Jahren. Bei Bedarf mit je einem Erwachsenen aufteilen. <a href="https://www.liseberg.se/parken/halloween-i-lisebergsparken/">Halloween &amp; Altersregeln ↗</a></p>
+        </li>
+      </ol>
+      <p class="oslo-day-note"><strong>Regenplan:</strong> Haga streichen und mehr Hotelpause. Bei starkem Wind oder Unwetter können Fahrgeschäfte ausfallen; aktuelle Parkinfos prüfen. Universeum und Parktage nur tauschen, wenn Kalender und Ticketbedingungen es zulassen – keine automatische Umbuchbarkeit voraussetzen.</p>
+    </article>
+
+    <article class="oslo-day goteborg-day" id="goteborg-31" aria-labelledby="goteborg-saturday">
+      <div class="oslo-day-head">
+        <time class="oslo-date" datetime="2026-10-31">31<small>OKT</small></time>
+        <div><p>Samstag · Abschluss der Reise</p><h3 id="goteborg-saturday">Ausschlafen. Frühstück. Heimwärts.</h3></div>
+      </div>
+      <ol class="oslo-events" aria-label="Göteborg am Samstag">
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Morgens · ohne frühen Pflichttermin</span><span class="oslo-status">Flexibel</span></div>
+          <h4>Nach Halloween langsam starten</h4>
+          <p>Frühstück und packen, Frühstücks- und Check-out-Zeiten mit dem Hotel abgleichen. Kein weiteres großes Ausflugsziel vor die Rückfahrt setzen.</p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Nur mit ausreichend Puffer</span><span class="oslo-status">Optional</span></div>
+          <h4>Ein letzter Kaffee oder eine kleine Runde</h4>
+          <p>Wenn die Rückreise es erlaubt, noch kurz raus. Sonst direkt das Auto holen – keine Schärenfahrt und keinen zweiten Parkbesuch vor der Abfahrt einplanen.</p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Nach eurem Reiseplan</span><span class="oslo-status pending">Rückreise abgleichen</span></div>
+          <h4>Check-out &amp; Rückreise</h4>
+          <p>Die genaue Abreisezeit ist noch offen. Je nach Fahrt oder Fähre mit Lade-, Verkehrs- und gegebenenfalls Check-in-Puffer planen; eine konkrete Verbindung ist hier noch nicht hinterlegt.</p>
+        </li>
+      </ol>
+      <p class="oslo-day-note"><strong>Bewusst weggelassen:</strong> Ein Schärenausflug wäre schön, braucht aber einen eigenen halben Tag und einen passenden Herbstfahrplan. Für diese zwei Nächte haben Universeum und Halloween Vorrang.</p>
+    </article>
+  </div>
+  <p class="oslo-note"><strong>Vorher klären:</strong> Universeum-Eintrittszeit am Donnerstag, Liseberg-Tickets für Freitag und die genaue Rückreise am Samstag. <a href="https://www.universeum.se/besok/oppettider">Universeum-Ferienzeiten</a> und <a href="https://www.liseberg.se/kalender">Liseberg-Kalender</a> sind geprüft; Verfügbarkeit und Änderungen vor Buchung erneut abgleichen. Alle Besuchszeiten bleiben Vorschläge, nicht Reservierungen.</p>
 </section>
 
 <section>
