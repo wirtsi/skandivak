@@ -37,6 +37,18 @@ Die Website zeigt einen visuellen Tagesplan unter `#oslo-timeline`. Nur ausdrüc
 
 Quellen: Nutzerkorrekturen und Buchungsscreenshot; [Opernführungen](https://www.operaen.no/en/your-visit-at-oslo-operahouse/guided-tours/); [Little Pickle Sunday Roast](https://www.thelittlepickle.no/general-6-1).
 
+## Smögen-Timeline (27.–29.10.)
+
+Visueller Tagesplan auf der Website unter `#smogen-timeline`. Alle Zeiten sind Vorschläge; keine Aktivität/Restaurant-/Spa-Buchung bestätigt. Hotelbasis laut bestehender Planung: Smögens Hafvsbad, zwei Nächte.
+
+- **Di 27.10.:** Nach Frühstück/Check-out in Oslo starten (ca. 09:30 als Vorschlag). Optionaler Küstenabstecher Fjällbacka: Hafen, Ingrid Bergmans Torg, Kungsklyftan/Vetteberget nur bei trockenem, sicherem Tritt. Danach Hotel, kurze Smögenbryggan-Runde solange hell, Dinner im Hotel ca. 18:30 (Tisch/Tarif klären).
+- **Mi 28.10.:** Frühstück ca. 08:30 (regulär werktags bis 09:30), kurze Ramsvik-Runde vor Ort ca. 10–11:30 bei sicherem Wetter, Lunch ca. 12:30, Spa-Slot als Wunsch 14–16 (noch anfragen), Abendessen ab ca. 18 Uhr. Sturm/Regen: Küstenwanderung streichen, geschützte kurze Hafenrunde und Hotelaktivitäten nach Verfügbarkeit.
+- **Do 29.10.:** Frühstück/Check-out, ggf. letzte Hafenrunde, danach Göteborg/Gothia Towers. Kein großer weiterer Ausflug vor der Weiterfahrt.
+- **Wichtige Kinderregel:** Das offizielle Höstlov-Angebot nennt Anreisen 25.–29.10. und verlängerte Kinder-Spa-Zeiten 09–17 Uhr. Außerhalb der Ferien sind Kinder unter 13 nur 09–13 Uhr willkommen. Beide Kinder fallen unter diese Grenze. Zeitfenster reservieren; Tarifleistungen und Zutritt für konkrete Buchung bestätigen lassen.
+- **Gastronomie:** Hotelrestaurant nennt regulär Mo–Fr Lunch 12–14 Uhr, So–Do Dinner 18–22 Uhr. Herbst-/Ferienabweichungen abgleichen. Andere Hafenrestaurants, Hållö-Fähren und Hummersafari ohne Datum/Öffnungsbestätigung nicht als feste Termine einplanen.
+
+Quellen und Details: `references/smogen-autumn.md`.
+
 ## Essen
 **Oslo:** Brasserie Hansken (Fam.-Brasserie), Sjømagasinet (Seafood am Operndock), Døgnvill Bar & Burger (Kids) · **Food-Hotspot Universiteitsgata:** Mon Oncle (Esben Holmboe Bang/Maaemo), Katla (Seafood+Naturwein), Kafeteria August, Kaffeebar Fuglen · **Grünerløkka:** Kuro (Specialty Coffee+Naturwein), Kollekted By (Shop) · Rooftop-Bar Byens Tak · ZEIT: Restaurant Lorry (seit 1886).
 **Küste:** Göstas Fiskekrog (Smögen), Q Skär (Grebbestad-Pier, Hummer).

@@ -17,7 +17,7 @@ class Document(HTMLParser):
         attrs = dict(attrs)
         if 'id' in attrs:
             self.ids.append(attrs['id'])
-        if tag == 'article' and 'oslo-day' in (attrs.get('class') or '').split():
+        if tag == 'article' and (attrs.get('id') or '').startswith('oslo-') and 'oslo-day' in (attrs.get('class') or '').split():
             self.days.append(attrs)
         if tag == 'time':
             self.times.append(attrs.get('datetime'))

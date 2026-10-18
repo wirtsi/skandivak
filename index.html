@@ -68,7 +68,12 @@
   .oslo-event .oslo-detail { margin-top:8px; font-size:.8rem; color:#526476; }
   .oslo-day-note { margin:0 22px 22px; padding:13px 15px; border-radius:10px; background:#f1f5f3; font-size:.82rem; color:#43576c; }
   .oslo-note { margin-top:22px; padding:18px 20px; background:#e4eeeb; border-radius:12px; font-size:.85rem; color:#43576c; }
+  #smogen-timeline .oslo-day-head { background:#216b62; }
+  #smogen-timeline .oslo-day:nth-child(2) .oslo-day-head { background:#245b75; }
+  #smogen-timeline .oslo-day:last-child .oslo-day-head { background:var(--ink); }
+  #smogen-timeline a:focus-visible { outline:3px solid #216b62; outline-offset:4px; }
   @media (max-width:760px){ .oslo-days{grid-template-columns:minmax(0,1fr);} }
+  @media (max-width:640px){ #smogen-timeline h2{font-size:1.7rem;} }
   @media (max-width:640px){ header{padding:36px 16px;} header h1{font-size:1.9rem;} .hero{height:220px;} .grid{grid-template-columns:minmax(0,1fr);} .oslo-day-head{padding:20px;gap:14px;} .oslo-events{padding:24px 18px 6px 30px;} .oslo-event{padding-left:22px;} #oslo-timeline h2{font-size:1.7rem;} }
 </style>
 </head>
@@ -332,6 +337,117 @@
     </div>
   </div>
   <p style="margin-top:14px;font-size:.85rem;color:var(--ink);opacity:.75;">Quelle: ZEIT Nr. 39/2026, „Update“ + curatierte Petite Passport Oslo-Tipps ("More Oslo Tips", Juli 2024).</p>
+</section>
+
+<section id="smogen-timeline" aria-labelledby="smogen-timeline-title">
+  <h2 id="smogen-timeline-title">Smögen · unser Zeitplan</h2>
+  <p class="oslo-intro">Zwei Nächte am Meer als Pause zwischen den Städten. Ein Fischerdorf auf dem Weg, ein voller Tag zwischen Granitküste und warmem Pool. <strong>Alle Zeiten sind Vorschläge. Keine Aktivität ist gebucht.</strong></p>
+  <nav class="oslo-nav" aria-label="Direkt zum Smögen-Reisetag">
+    <a href="#smogen-27">Di 27. · An die Küste</a>
+    <a href="#smogen-28">Mi 28. · Felsen &amp; Spa</a>
+    <a href="#smogen-29">Do 29. · Göteborg</a>
+  </nav>
+  <div class="oslo-days">
+    <article class="oslo-day smogen-day" id="smogen-27" aria-labelledby="smogen-tuesday">
+      <div class="oslo-day-head">
+        <time class="oslo-date" datetime="2026-10-27">27<small>OKT</small></time>
+        <div><p>Dienstag · Von Oslo nach Smögen</p><h3 id="smogen-tuesday">Stadt aus. Meer an.</h3></div>
+      </div>
+      <ol class="oslo-events" aria-label="Smögen am Dienstag">
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ca. 09:30</span><span class="oslo-status">Vorschlag</span></div>
+          <h4>Oslo verabschieden</h4>
+          <p>Nach Frühstück und Check-out Richtung Schweden starten. Lade- und Fahrpausen nach Bedarf; heute nur einen Ausflugsstopp einplanen.</p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Mittags · je nach Fahrt</span><span class="oslo-status">Optionaler Umweg</span></div>
+          <h4>Fjällbacka – Hafen &amp; Ronja-Felsen</h4>
+          <p>Für einen bewussten Küstenabstecher von der E6 abfahren: Hafen, Ingrid Bergmans Torg und etwas essen. Bei trockenem, sicherem Tritt durch die Kungsklyftan und bei Lust auf den Vetteberget – hier wurden Szenen von Ronja Räubertochter gedreht.</p>
+          <p class="oslo-detail">Bei Nässe können Stufen und Felsen rutschig sein. Dann nur Hafenrunde; bei später Abfahrt den ganzen Stopp streichen. <a href="https://www.vastsverige.com/tanum/produkter/vettebergetkungsklyftan/">Ort &amp; Wege ↗</a></p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Nachmittags</span><span class="oslo-status">Basis · 2 Nächte</span></div>
+          <h4>Smögens Hafvsbad</h4>
+          <p>Ankommen, Gepäck abgeben und nach der möglichen Check-in-Zeit fragen. Bei der Rezeption gleich Spa-Zeiten für alle vier und einen Tisch zum Abendessen klären.</p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Noch im Hellen</span><span class="oslo-status">Nach Tagesform</span></div>
+          <h4>Erste Runde auf der Smögenbryggan</h4>
+          <p>Holzsteg, bunte Bootshäuser und Hafenluft. Lieber ein kurzer Spaziergang als ein zweiter Ausflug. Bei später Ankunft bleibt die große Hafenrunde für Mittwoch.</p>
+        </li>
+        <li class="oslo-event is-pending">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ca. 18:30</span><span class="oslo-status pending">Tisch anfragen</span></div>
+          <h4>Abendessen im Hafvsbad</h4>
+          <p>Für den Ankunftsabend die einfache Lösung direkt im Hotel. Laut Website gibt es die Abendkarte sonntags bis donnerstags ab 18 Uhr. Prüfen, ob Dinner in eurem Tarif enthalten ist.</p>
+          <p class="oslo-detail"><a href="https://www.smogenshafvsbad.se/restaurang/">Restaurant &amp; aktuelle Menüs ↗</a></p>
+        </li>
+      </ol>
+      <p class="oslo-day-note"><strong>Kein Dörfer-Sammeln:</strong> Fjällbacka reicht als Zwischenstopp. Grebbestad und Tanum nicht auch noch in denselben Fahrtag pressen.</p>
+    </article>
+
+    <article class="oslo-day smogen-day" id="smogen-28" aria-labelledby="smogen-wednesday">
+      <div class="oslo-day-head">
+        <time class="oslo-date" datetime="2026-10-28">28<small>OKT</small></time>
+        <div><p>Mittwoch · Ein ganzer Küstentag</p><h3 id="smogen-wednesday">Erst die Felsen. Dann der Pool.</h3></div>
+      </div>
+      <ol class="oslo-events" aria-label="Smögen am Mittwoch">
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ca. 08:30</span><span class="oslo-status">Vorschlag</span></div>
+          <h4>Frühstück mit Zeit</h4>
+          <p>Gut frühstücken und eine Thermoskanne für draußen mitnehmen. Das Hotel nennt werktags Frühstück bis 09:30 Uhr; Ferienzeiten an der Rezeption abgleichen.</p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ca. 10:00–11:30 · vor Ort</span><span class="oslo-status">Nur bei passendem Wetter</span></div>
+          <h4>Ramsvik – Granit statt Großstadt</h4>
+          <p>Mit dem Auto zum Ramsvikslandet und dort eine kurze, ausgeschilderte Runde wählen. Felsen, Heide und Meer statt langer Wanderetappe. Die Wegtafeln am Parkplatz helfen bei der Auswahl; genug Zeit für Hin- und Rückfahrt lassen.</p>
+          <p class="oslo-detail">Bei Sturm, Gischt oder glattem Fels keine exponierten Küstenwege. Dann eine kurze, geschützte Hafenrunde in Smögen statt Ramsvik. <a href="https://www.vastsverige.com/sotenas/artiklar/artiklar-se--gora/ramsvik/">Reservat &amp; Wanderinfos ↗</a></p>
+        </li>
+        <li class="oslo-event is-pending">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ca. 12:30</span><span class="oslo-status pending">Öffnung prüfen</span></div>
+          <h4>Warmes Mittagessen statt kaltem Picknick</h4>
+          <p>Zurück in Smögen etwas Warmes essen. Das Hafvsbad nennt werktags Lunch von 12–14 Uhr. Hafenrestaurants nur nach bestätigter Herbstöffnung einplanen – Göstas ist hier kein fester Termin.</p>
+        </li>
+        <li class="oslo-event is-pending">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ca. 14:00–16:00</span><span class="oslo-status pending">Spa-Zeit anfragen</span></div>
+          <h4>Warmwasser für alle vier</h4>
+          <p>Pool und aufwärmen im Hotel. Für das Höstlov veröffentlicht das Hafvsbad verlängerte Kinderzeiten von <strong>09–17 Uhr</strong>. Lilia und Flora sind beide unter 13; außerhalb der Ferien nennt das Hotel 09–13 Uhr.</p>
+          <p class="oslo-detail">Zeitfenster reservieren und bestätigen lassen, ob Spa in eurem Tarif enthalten ist. Das Ferienangebot nennt Anreisen vom 25.–29.10., also passend zu eurer Woche. <a href="https://www.smogenshafvsbad.se/vara-paket/hostlovspaket/">Kinderzeiten &amp; Höstlov-Angebot ↗</a></p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ab ca. 18:00</span><span class="oslo-status">Noch offen</span></div>
+          <h4>Ein Abend mit Fisch &amp; Schalentieren</h4>
+          <p>Nach Lust Fisch oder Meeresfrüchte probieren, ohne großes Pflichtmenü. Das Hotel bietet auch Schalentiergerichte an; Auswahl und Verfügbarkeit vorher klären. Danach kein weiterer Programmpunkt.</p>
+        </li>
+      </ol>
+      <p class="oslo-day-note"><strong>Regenplan:</strong> Ramsvik streichen, kurze Hafenrunde und mehr Hotelzeit. Das Höstlov-Angebot nennt Tischtennis, Shuffleboard und Kinderecke; nach Verfügbarkeit und Zugang in eurem Tarif fragen.</p>
+    </article>
+
+    <article class="oslo-day smogen-day" id="smogen-29" aria-labelledby="smogen-thursday">
+      <div class="oslo-day-head">
+        <time class="oslo-date" datetime="2026-10-29">29<small>OKT</small></time>
+        <div><p>Donnerstag · Weiter nach Göteborg</p><h3 id="smogen-thursday">Noch einmal Hafen. Dann weiter.</h3></div>
+      </div>
+      <ol class="oslo-events" aria-label="Smögen am Donnerstag">
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Ca. 08:30</span><span class="oslo-status">Vorschlag</span></div>
+          <h4>Frühstück &amp; packen</h4>
+          <p>In Ruhe frühstücken, Gepäck fertig machen und Check-out-Zeit mit dem Hotel abgleichen.</p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Vormittags · wenn es passt</span><span class="oslo-status">Optional</span></div>
+          <h4>Die Smögenbryggan im Morgenlicht</h4>
+          <p>Falls die Hafenrunde bisher zu kurz kam: noch einmal zu den Bootshäusern. Sonst direkt los – keine zweite große Sehenswürdigkeit vor der Abfahrt.</p>
+        </li>
+        <li class="oslo-event">
+          <div class="oslo-event-meta"><span class="oslo-clock">Anschließend</span><span class="oslo-status">Weiterreise</span></div>
+          <h4>Göteborg &amp; Gothia Towers</h4>
+          <p>Über die E6 nach Süden. Mittagessen unterwegs oder nach Ankunft, dann Gepäck am Gothia Towers abgeben. Genug Luft für den ersten Göteborg-Nachmittag lassen.</p>
+        </li>
+      </ol>
+      <p class="oslo-day-note"><strong>Bewusst nicht fest eingeplant:</strong> Hållö-Fähren und Hummersafari. Beides braucht für Ende Oktober einen bestätigten Fahrplan bzw. Veranstaltertermin und passendes Seewetter.</p>
+    </article>
+  </div>
+  <p class="oslo-note"><strong>Vorher klären:</strong> Spa-Slot für alle vier, Tarifleistungen und Dinner-Tisch. Kinderzeiten und Gastronomie stammen von der <a href="https://www.smogenshafvsbad.se/vara-paket/hostlovspaket/">Hotelwebsite</a>; konkrete Verfügbarkeit ist noch nicht bestätigt. Bei gutem Wetter zuerst raus, bei Wind und Regen kürzen. Sämtliche Uhrzeiten sind ungefähre Planungszeiten, keine Buchungen.</p>
 </section>
 
 <section>
