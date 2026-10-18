@@ -25,6 +25,18 @@ Fahrzeit/E6: Oslo→Göteborg ~295 km / ~3,5 h, Grenze bei Svinesund (Maut-Brüc
 - **Gothia Towers (Göteborg)** — **fixiert**, 2 Nächte 29.–31.10.
 - Alternativen (falls Smögens Hafvsbad nicht klappt): TanumStrand SPA (Grebbestad) — Family-Zimmer 22 m², ganzjährig offen; Liseberg Grand Curiosa (Halloween-Paket ab SEK 895/Pers.) — jetzt entfällt.
 
+## Oslo-Timeline (24.–27.10.)
+
+Die Website zeigt einen visuellen Tagesplan unter `#oslo-timeline`. Nur ausdrücklich bestätigte Termine sind dort als gebucht markiert; sonstige Uhrzeiten sind Vorschläge.
+
+- **Sa 24.10.:** Ankunft (Uhrzeit offen), Opernführung als Wunsch um 13 Uhr (alternativ 12 Uhr; Englisch, 50 Minuten; noch buchen, Verkauf ab Dienstag derselben Woche). Danach Operndach bei trockenem Wetter, Deichman und Oslobukta, Hotelpause.
+- **Bestätigt: Sa 24.10., 19:00 Uhr – Izakaya Dinner**, 4 Personen, Kirkegata 1–3, 0153 Oslo. Auswahl: 2 × Izakaya Tasting Menu und 2 × à la carte. Quelle: vom Nutzer bereitgestellter Buchungsscreenshot; Restaurant vom Nutzer als Izakaya by PAK bezeichnet.
+- **So 25.10.:** Gemütliches Frühstück, Akerselva und Grünerløkka, Kaffee und kleiner Snack. The Little Pickle Sunday Roast ist eingeplant; genaue Reservierungszeit noch abgleichen. Offizielles Roast-Zeitfenster: 15–17 Uhr, nicht später Abend. Zeitumstellung auf Winterzeit beachten.
+- **Mo 26.10.:** Vormittags Vigeland, mittags Aker Brygge/Tjuvholmen, nachmittags optional MUNCH (Tickets/Öffnung noch prüfen), Abendessen offen. Regenalternative: Tøyenbad statt Park; nicht Schwimmbad und Museum erzwingen.
+- **Di 27.10.:** Frühstück, Check-out, Weiterfahrt nach Smögen; kein fester Oslo-Programmpunkt mehr.
+
+Quellen: Nutzerkorrekturen und Buchungsscreenshot; [Opernführungen](https://www.operaen.no/en/your-visit-at-oslo-operahouse/guided-tours/); [Little Pickle Sunday Roast](https://www.thelittlepickle.no/general-6-1).
+
 ## Essen
 **Oslo:** Brasserie Hansken (Fam.-Brasserie), Sjømagasinet (Seafood am Operndock), Døgnvill Bar & Burger (Kids) · **Food-Hotspot Universiteitsgata:** Mon Oncle (Esben Holmboe Bang/Maaemo), Katla (Seafood+Naturwein), Kafeteria August, Kaffeebar Fuglen · **Grünerløkka:** Kuro (Specialty Coffee+Naturwein), Kollekted By (Shop) · Rooftop-Bar Byens Tak · ZEIT: Restaurant Lorry (seit 1886).
 **Küste:** Göstas Fiskekrog (Smögen), Q Skär (Grebbestad-Pier, Hummer).
