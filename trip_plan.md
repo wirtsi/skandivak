@@ -29,9 +29,9 @@ Fahrzeit/E6: Oslo→Göteborg ~295 km / ~3,5 h, Grenze bei Svinesund (Maut-Brüc
 
 Die Website zeigt einen visuellen Tagesplan unter `#oslo-timeline`. Nur ausdrücklich bestätigte Termine sind dort als gebucht markiert; sonstige Uhrzeiten sind Vorschläge.
 
-- **Sa 24.10.:** Ankunft (Uhrzeit offen), Opernführung als Wunsch um 13 Uhr (alternativ 12 Uhr; Englisch, 50 Minuten; noch buchen, Verkauf ab Dienstag derselben Woche). Danach Operndach bei trockenem Wetter, Deichman und Oslobukta, Hotelpause.
+- **Sa 24.10.:** Entspannt ankommen (Uhrzeit offen), Radisson/Gepäck, optional Akerselva und Grünerløkka mit Kaffee/Snack nach Ankunft und tatsächlicher Öffnung. Bei später Ankunft nur kurze Hotelumgebung-Runde. Hotelpause; keine Opernführung am Samstag.
 - **Bestätigt: Sa 24.10., 19:00 Uhr – Izakaya Dinner**, 4 Personen, Kirkegata 1–3, 0153 Oslo. Auswahl: 2 × Izakaya Tasting Menu und 2 × à la carte. Quelle: vom Nutzer bereitgestellter Buchungsscreenshot; Restaurant vom Nutzer als Izakaya by PAK bezeichnet.
-- **So 25.10.:** Gemütliches Frühstück, Akerselva und Grünerløkka, Kaffee und kleiner Snack. The Little Pickle Sunday Roast ist eingeplant; genaue Reservierungszeit noch abgleichen. Offizielles Roast-Zeitfenster: 15–17 Uhr, nicht später Abend. Zeitumstellung auf Winterzeit beachten.
+- **So 25.10.:** Frühstück, ca. 10:30–11:45 optional Deichman/Operndach nach Öffnung und Wetter. Ankunftsziel Oper ca. 12:15. **Opernführung um 12:30 Uhr, Termin laut Nutzerkorrektur bestätigt**; etwa 50 Minuten, Ende ungefähr 13:20. Danach kleiner Snack/kurze Oslobukta-Runde. Ab ca. 14:15 je nach Tischzeit zum Little Pickle, ohne große Viertelrunde dazwischen. Sunday Roast regulär 15–17 Uhr; genaue Reservierungszeit noch abgleichen. Zeitumstellung: 12:30 ist Ortszeit MEZ nach Ende der Sommerzeit.
 - **Mo 26.10.:** Vormittags Vigeland, mittags Aker Brygge/Tjuvholmen, nachmittags optional MUNCH (Tickets/Öffnung noch prüfen), abends voraussichtlich Tranen (Nutzerangabe; Uhrzeit und Reservierung noch offen). Regenalternative: Tøyenbad statt Park; nicht Schwimmbad und Museum erzwingen.
 - **Di 27.10.:** Frühstück, Check-out, Weiterfahrt nach Smögen; kein fester Oslo-Programmpunkt mehr.
 

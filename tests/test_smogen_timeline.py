@@ -50,7 +50,12 @@ class SmogenTimelineTest(unittest.TestCase):
             assert match is not None
             return match.group()
 
-        self.assertEqual(without_monday_dinner(extract(previous)), without_monday_dinner(extract(self.source)))
+        for day in [26, 27]:
+            pattern = rf'<article[^>]+id="oslo-{day}".*?</article>'
+            old = re.search(pattern, extract(previous), re.S)
+            new = re.search(pattern, extract(self.source), re.S)
+            assert old is not None and new is not None
+            self.assertEqual(without_monday_dinner(old.group()), without_monday_dinner(new.group()))
 
 
 if __name__ == '__main__':

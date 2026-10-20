@@ -53,10 +53,24 @@ class OsloTimelineTest(unittest.TestCase):
             self.assertIn(text, self.source)
 
     def test_suggestions_are_not_reservations(self):
-        for text in ['Wunschzeit', 'Noch buchen', '15–17 Uhr', 'Uhrzeit abgleichen', 'Vorschlag', 'Tøyenbad']:
+        for text in ['15–17 Uhr', 'Uhrzeit abgleichen', 'Vorschlag', 'Tøyenbad']:
             self.assertIn(text, self.source)
         self.assertIn('id="oslo-timeline"', self.source)
         self.assertLess(self.source.index('id="oslo-timeline"'), self.source.index('Oslo — so sieht es aus'))
+
+    def test_opera_moved_to_sunday_1230(self):
+        saturday = re.search(r'<article[^>]+id="oslo-24".*?</article>', self.source, re.S)
+        sunday = re.search(r'<article[^>]+id="oslo-25".*?</article>', self.source, re.S)
+        assert saturday is not None and sunday is not None
+        self.assertNotIn('Hinter die Kulissen der Oper', saturday.group())
+        self.assertIn('Grünerløkka', saturday.group())
+        for text in ['2026-10-25T12:30:00+01:00', '12:30', 'Termin bestätigt', 'Hinter die Kulissen der Oper', '12:15', 'The Little Pickle']:
+            self.assertIn(text, sunday.group())
+        self.assertLess(sunday.group().index('Hinter die Kulissen der Oper'), sunday.group().index('The Little Pickle'))
+        oslo = re.search(r'<section id="oslo-timeline".*?</section>', self.source, re.S)
+        assert oslo is not None
+        for stale in ['13:00 · Wunschzeit', 'Oper noch buchen', 'Nach Anreise und Führung', 'Sonst direkt zur Oper']:
+            self.assertNotIn(stale, oslo.group())
 
     def test_monday_tranen_is_tentative(self):
         monday = re.search(r'<article[^>]+id="oslo-26".*?</article>', self.source, re.S)

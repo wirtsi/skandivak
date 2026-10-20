@@ -43,7 +43,7 @@ class GoteborgTimelineTest(unittest.TestCase):
         self.assertEqual(self.timeline.count('class="oslo-day goteborg-day"'), 3)
         self.assertEqual(self.timeline.count('<ol class="oslo-events"'), 3)
         previous = subprocess.check_output(['git', 'show', '18bd943:index.html'], cwd=ROOT, text=True)
-        for city in ['oslo', 'smogen']:
+        for city in ['smogen']:
             pattern = rf'<section id="{city}-timeline".*?</section>'
             old = re.search(pattern, previous, re.S)
             new = re.search(pattern, self.source, re.S)
