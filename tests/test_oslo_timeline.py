@@ -53,7 +53,7 @@ class OsloTimelineTest(unittest.TestCase):
             self.assertIn(text, self.source)
 
     def test_suggestions_are_not_reservations(self):
-        for text in ['15–17 Uhr', 'Uhrzeit abgleichen', 'Vorschlag', 'Tøyenbad']:
+        for text in ['Vorläufig geplant', 'Vorschlag', 'Tøyenbad']:
             self.assertIn(text, self.source)
         self.assertIn('id="oslo-timeline"', self.source)
         self.assertLess(self.source.index('id="oslo-timeline"'), self.source.index('Oslo — so sieht es aus'))
@@ -71,6 +71,20 @@ class OsloTimelineTest(unittest.TestCase):
         assert oslo is not None
         for stale in ['13:00 · Wunschzeit', 'Oper noch buchen', 'Nach Anreise und Führung', 'Sonst direkt zur Oper']:
             self.assertNotIn(stale, oslo.group())
+
+    def test_little_pickle_confirmed_two_hour_slot(self):
+        sunday = re.search(r'<article[^>]+id="oslo-25".*?</article>', self.source, re.S)
+        assert sunday is not None
+        dinner = re.search(r'<li class="oslo-event is-booked">(?:(?!</li>).)*The Little Pickle.*?</li>', sunday.group(), re.S)
+        self.assertIsNotNone(dinner)
+        assert dinner is not None
+        for text in ['2026-10-25T17:30:00+01:00', '2026-10-25T19:30:00+01:00', 'Telefonisch bestätigt', '2 Stunden']:
+            self.assertIn(text, dinner.group())
+        oslo = re.search(r'<section id="oslo-timeline".*?</section>', self.source, re.S)
+        assert oslo is not None
+        for stale in ['15–17 Uhr', 'Little-Pickle-Uhrzeit', 'Reservierungszeit ist hier noch offen', 'nach Reservierungszeit']:
+            self.assertNotIn(stale, oslo.group())
+        self.assertIn('Ab 19:30', sunday.group())
 
     def test_monday_tranen_is_tentative(self):
         monday = re.search(r'<article[^>]+id="oslo-26".*?</article>', self.source, re.S)
